@@ -1,0 +1,16 @@
+{
+  "name": "randombot",
+  "version": "1.0.0",
+  "description": "Get randomness using ~random",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "cfduid",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "drand-client": "^0.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
